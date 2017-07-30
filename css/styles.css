@@ -28,20 +28,21 @@ i {
                width:60px;
                margin-top: 30px;
 }
-.image-center {  width:980px;
+
+.image-center {  width:100%;
                  height:400px;
 }
 
 .art {
-               width:300px;
+               width:100%;
                height:200px;
 }
 .books {
-               width:300px;
+               width:100%;
                height:200px;
 }
 .travel {
-                width:300px;
+                width:100%;
                height:200px;
 }
 .line {
